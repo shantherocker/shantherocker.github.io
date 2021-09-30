@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title : WELCOME ALL TO MY WEBSITE!
+description : THIS IS OUR NEW TECH WEBSITE!
 
 You can use the [editor on GitHub](https://github.com/shantherocker/shantherocker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
